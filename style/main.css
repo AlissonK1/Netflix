@@ -135,3 +135,31 @@ header nav a:hover{
     margin-left: 15px;
     font-size: 25px;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-top: 10px;
+    background-color: black;
+}
+
+.footer-titulo{
+    margin-right: 35px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer .icone-footer{
+    font-size: 25px;
+    margin-right: 10px;
+    transition: .3s;
+}
+
+.footer .icone-footer:hover{
+    transform: scale(1.5);
+}
