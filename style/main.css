@@ -72,6 +72,7 @@ header nav a:hover{
     justify-content: center;
     align-content: flex-start;
     padding-left: 25px;
+    text-align: justify;
 }
 
 .destaque .container{
@@ -127,6 +128,7 @@ header nav a:hover{
     border: solid 2px white;
     border-radius: 5px;
     cursor: pointer;
+    background-image: rgba(255, 255, 255, 0);
 }
 
 .carrosel-titulo{
